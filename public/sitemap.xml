@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-24T17:21:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/post2/</loc>
+    <lastmod>2025-07-24T17:21:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-07-24T17:21:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/write-ups/</loc>
+    <lastmod>2025-07-24T17:00:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/write-ups/ctf1/</loc>
+    <lastmod>2025-07-24T17:00:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/write-ups/ctf1/wuctf1/</loc>
+    <lastmod>2025-07-24T17:00:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/write-ups/testwu2/</loc>
+    <lastmod>2025-07-24T17:00:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/write-ups/testwu1/</loc>
+    <lastmod>2025-07-24T16:57:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/test_1/</loc>
+    <lastmod>2025-07-24T16:48:59+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writes-Ups de CTF1 on Sk4r;</title>
+    <link>http://localhost:1313/write-ups/ctf1/</link>
+    <description>Recent content in Writes-Ups de CTF1 on Sk4r;</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Jul 2025 17:00:45 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/write-ups/ctf1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wuctf1</title>
+      <link>http://localhost:1313/write-ups/ctf1/wuctf1/</link>
+      <pubDate>Thu, 24 Jul 2025 17:00:45 +0200</pubDate>
+      <guid>http://localhost:1313/write-ups/ctf1/wuctf1/</guid>
+      <description>sss</description>
+    </item>
+  </channel>
+</rss>
