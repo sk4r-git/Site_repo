@@ -2,32 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Write-Ups generaux on Sk4r;</title>
-    <link>http://localhost:1313/write-ups/</link>
+    <link>https://localhost:1313/write-ups/</link>
     <description>Recent content in Write-Ups generaux on Sk4r;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 17:22:11 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/write-ups/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TestWU3</title>
-      <link>http://localhost:1313/write-ups/testwu3/</link>
-      <pubDate>Thu, 24 Jul 2025 17:22:11 +0200</pubDate>
-      <guid>http://localhost:1313/write-ups/testwu3/</guid>
-      <description>vjgvgv</description>
-    </item>
-    <item>
-      <title>TestWU2</title>
-      <link>http://localhost:1313/write-ups/testwu2/</link>
-      <pubDate>Thu, 24 Jul 2025 17:00:33 +0200</pubDate>
-      <guid>http://localhost:1313/write-ups/testwu2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TestWU1</title>
-      <link>http://localhost:1313/write-ups/testwu1/</link>
-      <pubDate>Thu, 24 Jul 2025 16:57:46 +0200</pubDate>
-      <guid>http://localhost:1313/write-ups/testwu1/</guid>
-      <description>sss</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://localhost:1313/write-ups/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
