@@ -3,7 +3,7 @@
 git add .
 git commit -m "new_post"
 git push
-mv -r -f public/* ~/GITHUB/sk4r-git.github.io/
+mv -f public/* ~/GITHUB/sk4r-git.github.io/
 cd  ~/GITHUB/sk4r-git.github.io/
 git add .
 git commit -m "new post"
