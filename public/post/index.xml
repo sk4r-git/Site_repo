@@ -2,11 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sk4r;</title>
-    <link>https://localhost:1313/post/</link>
+    <link>http://localhost:1313/Site_repo/post/</link>
     <description>Recent content in Posts on Sk4r;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Jul 2025 06:44:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/Site_repo/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post3</title>
+      <link>http://localhost:1313/Site_repo/post/post3/</link>
+      <pubDate>Mon, 28 Jul 2025 06:44:22 +0200</pubDate>
+      <guid>http://localhost:1313/Site_repo/post/post3/</guid>
+      <description>post 3</description>
+    </item>
+    <item>
+      <title>Post2</title>
+      <link>http://localhost:1313/Site_repo/post/post2/</link>
+      <pubDate>Thu, 24 Jul 2025 17:21:12 +0200</pubDate>
+      <guid>http://localhost:1313/Site_repo/post/post2/</guid>
+      <description>poshbhevhd</description>
+    </item>
+    <item>
+      <title>Test_1</title>
+      <link>http://localhost:1313/Site_repo/post/test_1/</link>
+      <pubDate>Thu, 24 Jul 2025 16:48:59 +0200</pubDate>
+      <guid>http://localhost:1313/Site_repo/post/test_1/</guid>
+      <description>test___1</description>
+    </item>
   </channel>
 </rss>
