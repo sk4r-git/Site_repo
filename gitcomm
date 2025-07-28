@@ -1,10 +1,12 @@
 #!/bin/bash
 
+hugo
 git add .
 git commit -m "new_post"
 git push
 cp -r public/* ~/GITHUB/sk4r-git.github.io/
 cd  ~/GITHUB/sk4r-git.github.io/
+find /chemin/du/répertoire -type f -exec sed -i 's|http://localhost:1313|https://sk4r-git.github.io|g' {} +
 git add .
 git commit -m "new post"
 git push
